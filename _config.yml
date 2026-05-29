@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Gabriel-Van16"
 title_separator          : "-"
 name                     : "Hi my name is Gabriel Van Unen
-description              :   &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              :    &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://Gabriel-Van16.github.io 
                                                           
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
